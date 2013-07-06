@@ -7,12 +7,12 @@
     <meta name="description" content="CV of Zemin Jin">
     <meta name="keywords" content="靳泽民, Jin Zemin, Zemin Jin, resume, CV, 简历">
     <meta name="robots" content="all">
-    <style type="text/css">
+        <style type="text/css">
         body {
             background: #f0f0f0;
             margin: 0;
             padding: 0;
-            font-family: 'Helvetica Neue', Helvetica, Arial;
+            font-family: '黑体', '宋体', 'Helvetica Neue', Helvetica, Arial;
             line-height: 18px;
             font-size: 12px;
             color: #222;
@@ -29,10 +29,24 @@
             font-size: 210%;
         }
         h3 {
-            font-size: 150%;
+            font-size: 120%;
+            font-weight: bold;
         }
         p {
             margin: 0 0 10px 0;
+        }
+        code {
+            width: 100%;
+            color: #222;
+            background-color: #fff;
+            font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+            border-radius: 2px;
+            font-size: 11px;
+            -moz-border-radius: 2px;
+            -webkit-border-radius: 2px;
+            padding: 3px;
+            margin: 0 3px;
+            box-shadow: 0 0 10px rgba(0,0,0,.1);
         }
             /* ________________________________________________________ */
         .clear {
@@ -115,14 +129,22 @@
             float: right;
             text-align: right;
         }
-        .section-education .school,
         .section-work .job_title {
             font-size: 120%;
             display: block;
             margin: 10px 0 10px 0;
             font-style: italic;
+            color: #666;
         }
-            /* ___ photo ___ */
+        .section-education .info {
+            margin: 10px 0 0 0;
+        }
+        .section-timeline h3 {
+            font-size: 120%;
+            margin: 5px 0 5px 0;
+            font-weight: normal;
+        }
+        /* ___ photo ___ */
         #photo {
             width: 160px;
             height: 200px;
@@ -178,7 +200,7 @@
         <h2 class="title">Profile</h2>
         <div class="set">
             <div class="item">
-                <span class="info">Worked about 8 year’s experiences in software development. Proficient at .NET, C#, SQL, Sharepoint, Javascript, HTML, CSS and also know well about Python and ios development. Has great power on system architecture, database, front-end design, web application, agile development and quality code. Enjoys on challenging to new technology and new field.</span>
+                <span class="info">Work about 8 year’s experiences in software development. Proficient at .NET, C#, Sharepoint, Javascript, HTML, CSS, SQL, Web application development, know well and interest in Python and ios development. Have great power on system architecture, database, front-end design, web application, agile development and quality code. Enjoys on challenging to new technology and new field.</span>
             </div>
         </div>
     </div>
@@ -189,8 +211,8 @@
             <div class="item">
                 <span class="info">
                     Language: C#, VB, SQL, Javascript, CSS, HTML, Python, Objective-C<br />
-                    Web Framework: ASP.Net, MVC, Sharepoint, Flask<br />
-                    Web Front-end Framework: jQuery, Telerik, Bootstrap, EXT<br />
+                    Web Framework: ASP.NET, MVC, Sharepoint, Flask<br />
+                    Web Front-end Framework: jQuery, Bootstrap, Telerik, EXT JS<br />
                     ORM Framework: EntityFramework, NHibernate<br />
                     Database: SQL Server, MySQL<br />
                     IDE: Visual Studio, Pycharm, XCode, Dreamweaver, Sharepoint Designer<br />
@@ -201,120 +223,127 @@
         </div>
     </div>
 
+    <div class="section section-timeline">
+        <h2 class="title">Work Timeline</h2>
+        <div class="set">
+            <div class="item">
+                <h3>
+                    <span class="company l">Shinetech Inc.</span>
+                    <span class="date r">2007/7 &mdash; 至今</span>
+                </h3>
+                <span class="clear"> </span>
+            </div>
+
+            <div class="item">
+                <h3>
+                    <span class="company l">Advertising, training and software companies</span>
+                    <span class="date r">2005/9 &mdash; 2007/6</span>
+                </h3>
+                <span class="clear"> </span>
+            </div>
+        </div>
+    </div>
+
     <div class="section section-work">
         <h2 class="title">Work Experience</h2>
         <div class="set">
             <div class="item">
                 <h3>
-                    <span class="company l">Octant Business Management Suit</span>
+                    <span class="project l">Octant Business Management Suit</span>
                     <span class="date r">11/2007 - 8/2010 &amp; 10/2011- 7/2013</span>
                 </h3>
                 <span class="clear"> </span>
-                <span class="job_title">Software Engineer/Shinetech</span>
+                <span class="job_title">Software Engineer/Shinetech Inc.</span>
                 <span class="info">
-                    <p>Participate throughout whole development processing and entire system with other developers from requirements analysis,
-                        design and implementation of data structure, data access, WebPart/custom controls, page layouts (HTML/CSS),
-                        reconstruction and defect repair.</p>
-                    <p>Sharepoint2007/2010 + C# + Telerik Ajax controls + Javascript/jQuery + SQL Server 2008 + TFS/VSS</p>
+                    <P>Octant was born out of the need to help organizations respond quickly and intelligently to proposal and contract requests. Provide a new approach to gathering, maintaining, and producing requests for proposals. Offers a number of valuable tools to companies of all sizes chart the often choppy business development and proposal management processes. </P>
+                    <p>This project is based on Microsoft Sharepoint, contains 8 - 10 developer and tester. I participate throughout whole development processing and entire product from requirements analysis, design and implementation of functional module, WebPart/custom controls, page layouts, data access, iterative optimizing and defect repair.</p>
+                    <code>Sharepoint2007/2010 + C# + Telerik Ajax controls + Javascript/jQuery + SQL Server 2008 + TFS/VSS</code>
                 </span>
                 <span class="clear"> </span>
             </div>
 
             <div class="item">
                 <h3>
-                    <span class="company l">Janison Inc.</span>
+                    <span class="project l">Janison E-learning software</span>
                     <span class="date r">2/2011 &mdash; 6/2011</span>
                 </h3>
                 <span class="clear"> </span>
-                <span class="job_title">Software Engineer/Shinetech</span>
+                <span class="job_title">Software Engineer/Shinetech Inc.</span>
                 <span class="info">
-                    <p>Janison is an Australian corporation, supports customers through the creation and development of client-centered, innovative,
-                        world-class, quality learning solutions. I developed in two projects:</p>
-                    <p>Deloitte Academy System:<br />This project is asp.net vb web form and has been running for several years. I worked with another
-                        developer with responsibility for bug fixing, functionality expanding, new version development. </p>
-                    <p>ASP.Net + VB + SQL Server + Web Service + jQuery + ComponentArt AJAX controls</p>
-                    <p>Player by Rule &amp; JService:</p>
-                    <p>Cooperated with Janison worked for updating Janison’s core library “JService” which is data operation layout using EntityFramwork
-                        and Autfac. As while, created WCF service part for “Player by Rule pro-ject”. That is a MVC 3.0 application and based on JService.
-                        There were much business logic, technology analysis and communication between Zemin and Janison team to achieve new powerful core
-                        JService and new E-learning solution.</p>
-                    <p>ASP.NET + C# + SQL Server + WCF + EntityFramework + UnitTest + Ioc by Autofac + jQuery + Telerik AJAX controls + DDD + UnitTest</p>
+                    <p>Janison is an Australian corporation, supports customers through the creation and development of client-centered, innovative, quality e-learning solutions. Include two sub projects, require high skill and quality.</p>
+                    <p>Deloitte Academy System: eaded another developer and worked at system maintainance, functionality expanding, new version development. </p>
+                    <code>ASP.NET + VB + SQL Server + Web Service + jQuery + ComponentArt AJAX controls</code><br /><br />
+                    <p>Player by Rule &amp; JService: Cooperated with Janison worked for updating Janison’s core library “JService”. It's data operation layout using EntityFramwork + Autfac. As while, created WCF service part for “Player by Rule” project. That is a MVC 3.0 application and based on JService. There were much business logic, technology analysis and communication between me and Janison team for achieving more powerful product.</p>
+                    <code>ASP.NET + C# + SQL Server + WCF + EntityFramework + UnitTest + Ioc by Autofac + jQuery + Telerik + DDD + UnitTest</code>
                 </span>
                 <span class="clear"> </span>
             </div>
 
             <div class="item">
-                <h3><span class="company l">Finance Pad CRM system</span>
+                <h3><span class="project l">Finance Pad CRM system</span>
                     <span class="date r">9/2010 &mdash; 1/2011</span>
                 </h3>
                 <span class="clear"> </span>
-                <span class="job_title">Team Leader, Software Engineer/Shinetech</span>
+                <span class="job_title">Team Leader, Software Engineer/Shinetech Inc.</span>
                 <span class="info">
-                    <p>Leaded four members’ team developed a data and client management system for a tablet pc product which uses Windows CE 7 os and WPF.
-                        It is an ASP.NET MVC 2.0 application, using EXTJS library for AJAX and powerful UI. All data transform from controller and view is
-                        in JSON form. Integrate NHibernate for ORM part upon sql server, abstract data to proper domain model, persistent logic is in
-                        repository layout and domain logic is wraped in service layout. </p>
-                    <p>ASP.NET + C# + MVC + SQL Server + WCF + NHibernate + AJAX + EXTJS + Ioc by .Net Unity library</p>
+                    <p>Leaded four members’ team developed a data and client management system for a tablet pc product which installs Windows CE 7 os and WPF. Base on ASP.NET MVC 2.0, UI usages EXT JS + AJAX，persistent layout and domain model integrate Nhibernate + Sql Server + WCF, add needed unit test for quality.</p>
+                    <code>ASP.NET + C# + MVC + SQL Server + WCF + NHibernate + AJAX + EXTJS + Ioc by .Net Unity</code>
                 </span>
                 <span class="clear"> </span>
             </div>
 
             <div class="item">
                 <h3>
-                    <span class="company l">Health Technology Research</span>
+                    <span class="project l">Health Technology Research</span>
                     <span class="date r">4/2010 &mdash; 6/2010</span>
                 </h3>
                 <span class="clear"> </span>
-                <span class="job_title">Software Engineer/Shinetech</span>
+                <span class="job_title">Software Engineer/Shinetech Inc.</span>
                 <span class="info">
-                    <p>This project includes four parts: a WCF message delivery system, a ASP.NET web site, a sharepoint portal and a CRM server. The web site and sharepoint
-                        portal integrate with CRM and CRM is the data center. Message delivery system is a SOA project, it encrypt/decrypt, sign/verify and transfer between
-                        multi machines. The whole project of HTR shows users the services and products, provides content data search and manages custom relationship.</P>
-                    <p>Designed project architecture and established HTR web site and sharepoint portal. Integrated HTR web site data and sharepoint portal user registration
-                        system with CRM. Researched and implemented WCF message delivery system with another developer according to client’s requirement.</P>
-                    <p>ASP.NET + Sharepoint + CRM + SQL Server + WCF</p>
+                    <p>This project includes four parts: a WCF message delivery system, a ASP.NET web site, a sharepoint portal and a MS CRM server. The web site integrates with Sharepoint and CRM is the data center. Message delivery system is a SOA project, it encrypt/decrypt, sign/verify and transfer between multi machines. The whole project of HTR shows users the services and products, provides content data search and manages customer relationship.</P>
+                    <p>Established HTR web site and Sharepoint portal; Integrated HTR web site with Sharepoint portal user management system and CRM data; Researched and implemented WCF message delivery system with another developer according to client’s requirement.</P>
+                    <code>ASP.NET + Sharepoint + CRM + SQL Server + WCF</code>
                 </span>
                 <span class="clear"> </span>
             </div>
 
             <div class="item">
                 <h3>
-                    <span class="company l">ECatalog Products Management Suit</span>
+                    <span class="project l">ECatalog Products Management Suit</span>
                     <span class="date r">8/2007 &mdash; 11/2007</span>
                 </h3>
                 <span class="clear"> </span>
-                <span class="job_title">Software Engineer/Shinetech</span>
+                <span class="job_title">Software Engineer/Shinetech Inc.</span>
                 <span class="info">
-                    <p>This project was to build a products management suit for customs searching and seeing products in every category. There is a complicated
-                        searching logic and SQL stored procedures. </p>
-                    <p>Developed with responsibility for structure design, web page design, ASP.Net development and database development.</p>
-                    <p>ASP.NET + SQL Server + Javascript + HTML + CSS</p>
+                    <p>This project was to build a products management suit for customs searching and seeing products in every category efficiently. There were many complicated business logic and data operations. </p>
+                    <p>Developed with responsibility for structure design, web page design, ASP.Net and database development.</p>
+                    <code>ASP.NET + SQL Server + Javascript + HTML + CSS</code>
                 </span>
                 <span class="clear"> </span>
             </div>
 
             <div class="item">
-                <h3><span class="company l">EarthTone</span>
+                <h3><span class="project l">EarthTone</span>
                     <span class="date r">7/2007 &mdash; 8/2007</span>
                 </h3>
                 <span class="clear"> </span>
-                <span class="job_title">Software Engineer/Shinetech</span>
+                <span class="job_title">Software Engineer/Shinetech Inc.</span>
                 <span class="info">
-                    <p>I was responsible for building web pages with DIV layout and CSS. Every static page must be up to Web 2.0 validation. Insure templates pages easy to implement and integrate them into ASP.NET sys-tem.</P>
-                    <p>Dreamweaver + Fireworks + ASP.NET + HTML + CSS</p>
+                    <p>Built web page templates with DIV layout and CSS. Insure templates pages must be up to Web 2.0 validation strictly and easy to integrate into ASP.NET system.</P>
+                    <code>Dreamweaver + Fireworks + ASP.NET + HTML + CSS</code>
                 </span>
                 <span class="clear"> </span>
             </div>
 
             <div class="item">
-                <h3><span class="company l">Web site development or system maintenance</span>
+                <h3><span class="project l">Web site development or system maintenance</span>
                     <span class="date r">9/2005 &mdash; 6/2007</span>
                 </h3>
                 <span class="clear"> </span>
                 <span class="job_title">Software Engineer</span>
                 <span class="info">
-                    <p>毕业后陆续在几家公司（广告、培训、软件公司）从事网站开发或者公司内部系统开发维护工作。</p>
-                    <p>ASP.NET + ASP + PHP + SQL Server + My SQL + Javascript + HTML + CSS</p>
+                    <p>Worked at web development or company internal system maintenance in several corporations after graduated.</p>
+                    <code>ASP.NET + ASP + PHP + SQL Server + My SQL + Javascript + HTML + CSS</code>
                 </span>
                 <span class="clear"> </span>
             </div>
@@ -325,11 +354,11 @@
         <h2 class="title">Education</h2>
         <div class="set">
             <div class="item">
-                <h3><span class="course l">Environmental Engineering</span>
+                <h3>
+                    <span class="school l">Hebei Polytechnic University (Hebei United University)</span>
                     <span class="date r">9/2001 &mdash; 6/2005</span>
                 </h3>
                 <span class="clear"> </span>
-                <span class="school">Hebei Polytechnic University (Hebei United University)</span>
                 <span class="info">Received a Bachelor degree of the Environmental Engineering</span>
                 <span class="clear"> </span>
             </div>
@@ -340,7 +369,7 @@
         <h2 class="title">English</h2>
         <div class="set">
             <div class="item">
-                <span class="info">CET4. Be proficient in reading and writing in English.</span>
+                <span class="info">CET4<br />Be proficient in reading and writing in English.</span>
             </div>
         </div>
     </div>
@@ -349,7 +378,7 @@
         <h2 class="title">Interests</h2>
         <div class="set">
             <div class="item">
-                <span class="info">Music, Photo,  Comic, Riding, Coding, Movie</span>
+                <span class="info">Music, Photo, Riding, Coding, Comic，Movie, New Technique</span>
             </div>
         </div>
     </div>
