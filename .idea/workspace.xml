@@ -7,13 +7,12 @@
     <list default="true" id="451d01fd-50de-4e1c-9a7a-e179f38389ca" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cv_cn.html" afterPath="$PROJECT_DIR$/cv_cn.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cv_en.html" afterPath="$PROJECT_DIR$/cv_en.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373169736779" ignored="false" />
-    <file path="/cv_cn.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373170989520" ignored="false" />
+    <file path="/Dummy.txt" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373173759241" ignored="false" />
+    <file path="/cv_cn.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373174275154" ignored="false" />
     <file path="/a.py" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373097385370" ignored="false" />
     <file path="/a.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373097727860" ignored="false" />
     <file path="/a.xml" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373098262311" ignored="false" />
@@ -105,19 +104,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cv_en.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="cv_en.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cv_en.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="323" column="213" selection-start="13810" selection-end="13810" vertical-scroll-proportion="-3.3469388">
+            <state line="343" column="65" selection-start="14881" selection-end="14881" vertical-scroll-proportion="0.7068404">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cv_cn.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="cv_cn.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cv_cn.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="324" column="103" selection-start="12236" selection-end="12236" vertical-scroll-proportion="0.3403909">
+            <state line="345" column="53" selection-start="13119" selection-end="13119" vertical-scroll-proportion="-7.9387755">
               <folding />
             </state>
           </provider>
@@ -478,7 +477,11 @@
       <created>1373169740698</created>
       <updated>1373169740698</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="upload cv files">
+      <created>1373173761897</created>
+      <updated>1373173761897</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -547,7 +550,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload pdf files" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload cv files" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -570,6 +573,7 @@
     <MESSAGE value="Merge branch 'master' into gh-pages&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.&#10;" />
     <MESSAGE value="update cv files" />
     <MESSAGE value="upload pdf files" />
+    <MESSAGE value="upload cv files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -626,16 +630,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cv_en.html">
+    <entry file="file://$PROJECT_DIR$/cv_cn.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="323" column="213" selection-start="13810" selection-end="13810" vertical-scroll-proportion="-3.3469388">
+        <state line="345" column="53" selection-start="13119" selection-end="13119" vertical-scroll-proportion="-7.9387755">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cv_cn.html">
+    <entry file="file://$PROJECT_DIR$/cv_en.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="324" column="103" selection-start="12236" selection-end="12236" vertical-scroll-proportion="0.3403909">
+        <state line="343" column="65" selection-start="14881" selection-end="14881" vertical-scroll-proportion="0.7068404">
           <folding />
         </state>
       </provider>
