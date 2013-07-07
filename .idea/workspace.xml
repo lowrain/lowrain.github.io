@@ -4,16 +4,15 @@
     <bookmark url="file://$PROJECT_DIR$/cv_cn.html" line="328" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="451d01fd-50de-4e1c-9a7a-e179f38389ca" name="Default" comment="">
+    <list default="true" id="451d01fd-50de-4e1c-9a7a-e179f38389ca" name="Default" comment="add ie6 alert; change">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cv_cn.html" afterPath="$PROJECT_DIR$/cv_cn.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cv_en.html" afterPath="$PROJECT_DIR$/cv_en.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373180242130" ignored="false" />
-    <file path="/cv_cn.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373180039228" ignored="false" />
+    <file path="/Dummy.txt" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373181790823" ignored="false" />
+    <file path="/cv_cn.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373181672532" ignored="false" />
     <file path="/a.py" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373097385370" ignored="false" />
     <file path="/a.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373097727860" ignored="false" />
     <file path="/a.xml" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373098262311" ignored="false" />
@@ -90,7 +89,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="12" selection-start="556" selection-end="556" vertical-scroll-proportion="-6.875">
+            <state line="4" column="54" selection-start="107" selection-end="113" vertical-scroll-proportion="-2.5">
               <folding />
             </state>
           </provider>
@@ -99,7 +98,7 @@
       <file leaf-file-name="cv_en.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cv_en.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="198" column="54" selection-start="5784" selection-end="5784" vertical-scroll-proportion="-123.75">
+            <state line="4" column="67" selection-start="128" selection-end="131" vertical-scroll-proportion="-1.2244898">
               <folding />
             </state>
           </provider>
@@ -108,7 +107,7 @@
       <file leaf-file-name="cv_cn.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cv_cn.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="30" selection-start="638" selection-end="638" vertical-scroll-proportion="0.33834586">
+            <state line="4" column="63" selection-start="114" selection-end="121" vertical-scroll-proportion="0.09022556">
               <folding />
             </state>
           </provider>
@@ -134,9 +133,9 @@
       <list>
         <option value="$PROJECT_DIR$/stylesheets/stylesheet.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/cv_cn.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/cv_en.html" />
+        <option value="$PROJECT_DIR$/cv_cn.html" />
       </list>
     </option>
   </component>
@@ -493,7 +492,11 @@
       <created>1373180246322</created>
       <updated>1373180246322</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update pdf files">
+      <created>1373181247774</created>
+      <updated>1373181247774</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -656,23 +659,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/cv_en.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="12" selection-start="556" selection-end="556" vertical-scroll-proportion="-6.875">
+        <state line="4" column="67" selection-start="128" selection-end="131" vertical-scroll-proportion="-1.2244898">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cv_en.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="198" column="54" selection-start="5784" selection-end="5784" vertical-scroll-proportion="-123.75">
+        <state line="4" column="54" selection-start="107" selection-end="113" vertical-scroll-proportion="-2.5">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cv_cn.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="30" selection-start="638" selection-end="638" vertical-scroll-proportion="0.33834586">
+        <state line="4" column="63" selection-start="114" selection-end="121" vertical-scroll-proportion="0.09022556">
           <folding />
         </state>
       </provider>
