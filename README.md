@@ -1,2 +1,2 @@
-kowrainblog
+Welcom to lowrain's blog
 ===========
