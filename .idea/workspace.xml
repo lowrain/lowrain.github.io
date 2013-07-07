@@ -4,23 +4,26 @@
     <bookmark url="file://$PROJECT_DIR$/cv_cn.html" line="328" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="451d01fd-50de-4e1c-9a7a-e179f38389ca" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cv_cn.html" afterPath="$PROJECT_DIR$/cv_cn.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cv_en.html" afterPath="$PROJECT_DIR$/cv_en.html" />
+    <list default="true" id="451d01fd-50de-4e1c-9a7a-e179f38389ca" name="Default" comment="fix cn cn font issue in chrome">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/folder-download.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pdf/CV_Zemin_Jin_Software_Engineer.pdf" afterPath="$PROJECT_DIR$/cv/CV_Zemin_Jin_Software_Engineer.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pdf/简历_靳泽民_软件工程师.pdf" afterPath="$PROJECT_DIR$/cv/简历_靳泽民_软件工程师.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascripts/letskillie6.pack.js" afterPath="$PROJECT_DIR$/javascripts/letskillie6.pack.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascripts/letskillie6.zh_CN.pack.js" afterPath="$PROJECT_DIR$/javascripts/letskillie6.zh_CN.pack.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/stylesheet.css" afterPath="$PROJECT_DIR$/stylesheets/stylesheet.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373187967940" ignored="false" />
+    <file path="/Dummy.txt" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373192044534" ignored="false" />
     <file path="/cv_cn.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373185881096" ignored="false" />
     <file path="/a.py" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373097385370" ignored="false" />
     <file path="/a.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373097727860" ignored="false" />
     <file path="/a.xml" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373098262311" ignored="false" />
-    <file path="/index.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373187704590" ignored="false" />
+    <file path="/index.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373193115469" ignored="false" />
     <file path="/cv_en.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373185265780" ignored="false" />
-    <file path="/stylesheet.css" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373187794961" ignored="false" />
+    <file path="/stylesheet.css" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373192600220" ignored="false" />
     <file path="/.gitignore" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373161512814" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +65,7 @@
           <favorite_root url="file://$PROJECT_DIR$/.idea/workspace.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
           <favorite_root url="file://$PROJECT_DIR$/.idea/testrunner.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
         </favorite_root>
-        <favorite_root url="file://$PROJECT_DIR$/images" module="blog" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/pdf" module="blog" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
           <favorite_root url="file://$PROJECT_DIR$/images/bg_hr.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
           <favorite_root url="file://$PROJECT_DIR$/images/avatar.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
           <favorite_root url="file://$PROJECT_DIR$/images/blacktocat.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
@@ -88,19 +91,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="cv_cn.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cv_cn.html">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="43" selection-start="555" selection-end="555" vertical-scroll-proportion="-8.75">
+            <state line="38" column="123" selection-start="1550" selection-end="1565" vertical-scroll-proportion="0.41318977">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cv_en.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cv_en.html">
+      <file leaf-file-name="stylesheet.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="41" selection-start="494" selection-end="494" vertical-scroll-proportion="0.2932331">
+            <state line="303" column="14" selection-start="5477" selection-end="5477" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -125,18 +128,18 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/stylesheets/stylesheet.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/javascripts/letskillie6.zh_CN.pack.js" />
         <option value="$PROJECT_DIR$/cv_cn.html" />
         <option value="$PROJECT_DIR$/cv_en.html" />
+        <option value="$PROJECT_DIR$/stylesheets/stylesheet.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
+    <option name="x" value="1280" />
     <option name="width" value="1440" />
-    <option name="height" value="824" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -164,7 +167,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -183,8 +185,51 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,16 +247,16 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../TryPyCharm" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="145" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="939" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="939" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="939" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="145" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="141" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -223,9 +268,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/pdf" />
       <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/pdf" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pdf" />
     </key>
   </component>
   <component name="RunManager">
@@ -282,27 +330,17 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="blog" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <option name="port" value="8000" />
-      <option name="host" value="" />
-      <option name="additionalOptions" value="" />
-      <option name="browserUrl" value="" />
-      <option name="runTestServer" value="false" />
-      <option name="runNoReload" value="false" />
-      <option name="useCustomRunCommand" value="false" />
-      <option name="customRunCommand" value="" />
+    <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
+      <module name="" />
+      <option name="PORT" value="0" />
+      <option name="HOST" value="null" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list />
+        </option>
+      </PathMappingSettings>
+      <option name="REDIRECT_OUTPUT" value="true" />
+      <option name="SUSPEND_AFTER_CONNECT" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
@@ -328,17 +366,27 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
-      <module name="" />
-      <option name="PORT" value="0" />
-      <option name="HOST" value="null" />
-      <PathMappingSettings>
-        <option name="pathMappings">
-          <list />
-        </option>
-      </PathMappingSettings>
-      <option name="REDIRECT_OUTPUT" value="true" />
-      <option name="SUSPEND_AFTER_CONNECT" value="true" />
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blog" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -504,7 +552,11 @@
       <created>1373187970215</created>
       <updated>1373187970215</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="fix cn cn font issue in chrome">
+      <created>1373188709190</created>
+      <updated>1373188709190</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -528,15 +580,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="824" extended-state="6" />
+    <frame x="1280" y="0" width="1440" height="900" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32739726" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23027259" sideWeight="0.6726027" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20731707" sideWeight="0.6726027" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -546,6 +597,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -593,7 +645,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove commented code" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix cn cn font issue in chrome" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -624,35 +676,12 @@
     <MESSAGE value="ie6 utf-8 issue" />
     <MESSAGE value="add ie6,7 message in index.html" />
     <MESSAGE value="remove commented code" />
+    <MESSAGE value="fix cn cn font issue in chrome" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cv_en.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="195" column="24" selection-start="5360" selection-end="5360" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cv_cn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="26" selection-start="439" selection-end="439" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cv_cn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -678,51 +707,65 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="17" selection-start="2298" selection-end="2298" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javascripts/letskillie6.pack.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="35" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="8" column="35" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javascripts/letskillie6.zh_CN.pack.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="33" selection-start="74" selection-end="74" vertical-scroll-proportion="0.067771085">
-          <folding />
-        </state>
+        <state line="3" column="33" selection-start="74" selection-end="74" vertical-scroll-proportion="0.067771085" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/cv_en.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="45" selection-start="943" selection-end="943" vertical-scroll-proportion="0.14285715">
+        <state line="37" column="24" selection-start="994" selection-end="994" vertical-scroll-proportion="-23.125">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cv_cn.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="43" selection-start="555" selection-end="555" vertical-scroll-proportion="-8.75">
+        <state line="14" column="43" selection-start="555" selection-end="555" vertical-scroll-proportion="-0.625">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cv_en.html">
+    <entry file="file://$PROJECT_DIR$/cv/简历_靳泽民_软件工程师.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/sprite_download.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icon_download.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/folder-download.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="41" selection-start="494" selection-end="494" vertical-scroll-proportion="0.2932331">
+        <state line="303" column="14" selection-start="5477" selection-end="5477" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="123" selection-start="1550" selection-end="1565" vertical-scroll-proportion="0.41318977">
           <folding />
         </state>
       </provider>
