@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="451d01fd-50de-4e1c-9a7a-e179f38389ca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/chat_exclamation.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cv_cn.html" afterPath="$PROJECT_DIR$/cv_cn.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cv_en.html" afterPath="$PROJECT_DIR$/cv_en.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascripts/letskillie6.pack.js" afterPath="$PROJECT_DIR$/javascripts/letskillie6.pack.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascripts/letskillie6.zh_CN.pack.js" afterPath="$PROJECT_DIR$/javascripts/letskillie6.zh_CN.pack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/stylesheet.css" afterPath="$PROJECT_DIR$/stylesheets/stylesheet.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373185919523" ignored="false" />
+    <file path="/Dummy.txt" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373187916005" ignored="false" />
     <file path="/cv_cn.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373185881096" ignored="false" />
     <file path="/a.py" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373097385370" ignored="false" />
     <file path="/a.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373097727860" ignored="false" />
@@ -94,7 +90,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="16" selection-start="4134" selection-end="4134" vertical-scroll-proportion="1.1804512">
+            <state line="27" column="45" selection-start="943" selection-end="943" vertical-scroll-proportion="0.14285715">
               <folding />
             </state>
           </provider>
@@ -546,7 +542,11 @@
       <created>1373185921983</created>
       <updated>1373185921983</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="add ie6,7 message in index.html">
+      <created>1373187921286</created>
+      <updated>1373187921286</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -635,7 +635,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="ie6 utf-8 issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ie6,7 message in index.html" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -664,6 +664,7 @@
     <MESSAGE value="local letskillie6 script" />
     <MESSAGE value="modify basic-info section for ie6 compatibility issue" />
     <MESSAGE value="ie6 utf-8 issue" />
+    <MESSAGE value="add ie6,7 message in index.html" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -766,7 +767,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="16" selection-start="4134" selection-end="4134" vertical-scroll-proportion="1.1804512">
+        <state line="27" column="45" selection-start="943" selection-end="943" vertical-scroll-proportion="0.14285715">
           <folding />
         </state>
       </provider>
