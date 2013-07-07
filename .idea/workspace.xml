@@ -11,13 +11,13 @@
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373173759241" ignored="false" />
-    <file path="/cv_cn.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373174275154" ignored="false" />
+    <file path="/Dummy.txt" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373174289456" ignored="false" />
+    <file path="/cv_cn.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373174468224" ignored="false" />
     <file path="/a.py" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373097385370" ignored="false" />
     <file path="/a.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373097727860" ignored="false" />
     <file path="/a.xml" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373098262311" ignored="false" />
     <file path="/index.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373169809527" ignored="false" />
-    <file path="/cv_en.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373171608999" ignored="false" />
+    <file path="/cv_en.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373174457819" ignored="false" />
     <file path="/stylesheet.css" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373129990587" ignored="false" />
     <file path="/.gitignore" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373161512814" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -104,19 +104,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cv_en.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="cv_en.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cv_en.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="343" column="65" selection-start="14881" selection-end="14881" vertical-scroll-proportion="0.7068404">
+            <state line="272" column="64" selection-start="9567" selection-end="9567" vertical-scroll-proportion="-4.265306">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cv_cn.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="cv_cn.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cv_cn.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="345" column="53" selection-start="13119" selection-end="13119" vertical-scroll-proportion="-7.9387755">
+            <state line="273" column="64" selection-start="9014" selection-end="9014" vertical-scroll-proportion="0.7312704">
               <folding />
             </state>
           </provider>
@@ -143,8 +143,8 @@
         <option value="$PROJECT_DIR$/stylesheets/stylesheet.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/cv_cn.html" />
         <option value="$PROJECT_DIR$/cv_en.html" />
+        <option value="$PROJECT_DIR$/cv_cn.html" />
       </list>
     </option>
   </component>
@@ -481,7 +481,11 @@
       <created>1373173761897</created>
       <updated>1373173761897</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="upload cv files">
+      <created>1373174291292</created>
+      <updated>1373174291292</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -630,16 +634,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cv_cn.html">
+    <entry file="file://$PROJECT_DIR$/cv_en.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="345" column="53" selection-start="13119" selection-end="13119" vertical-scroll-proportion="-7.9387755">
+        <state line="272" column="64" selection-start="9567" selection-end="9567" vertical-scroll-proportion="-4.265306">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cv_en.html">
+    <entry file="file://$PROJECT_DIR$/cv_cn.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="343" column="65" selection-start="14881" selection-end="14881" vertical-scroll-proportion="0.7068404">
+        <state line="273" column="64" selection-start="9014" selection-end="9014" vertical-scroll-proportion="0.7312704">
           <folding />
         </state>
       </provider>
