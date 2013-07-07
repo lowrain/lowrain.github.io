@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="451d01fd-50de-4e1c-9a7a-e179f38389ca" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cv_cn.html" afterPath="$PROJECT_DIR$/cv_cn.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cv_en.html" afterPath="$PROJECT_DIR$/cv_en.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascripts/letskillie6.pack.js" afterPath="$PROJECT_DIR$/javascripts/letskillie6.pack.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascripts/letskillie6.zh_CN.pack.js" afterPath="$PROJECT_DIR$/javascripts/letskillie6.zh_CN.pack.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373187916005" ignored="false" />
+    <file path="/Dummy.txt" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373187967940" ignored="false" />
     <file path="/cv_cn.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373185881096" ignored="false" />
     <file path="/a.py" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373097385370" ignored="false" />
     <file path="/a.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373097727860" ignored="false" />
@@ -87,39 +88,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="45" selection-start="943" selection-end="943" vertical-scroll-proportion="0.14285715">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stylesheet.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="97" column="17" selection-start="2298" selection-end="2298" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cv_en.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cv_en.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="183" column="16" selection-start="4600" selection-end="4600" vertical-scroll-proportion="-3.367347">
-              <folding>
-                <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="cv_cn.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cv_cn.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="184" column="16" selection-start="4665" selection-end="4665" vertical-scroll-proportion="-7.5">
+            <state line="14" column="43" selection-start="555" selection-end="555" vertical-scroll-proportion="-8.75">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cv_en.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cv_en.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="41" selection-start="494" selection-end="494" vertical-scroll-proportion="0.2932331">
               <folding />
             </state>
           </provider>
@@ -144,10 +125,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/cv_en.html" />
-        <option value="$PROJECT_DIR$/cv_cn.html" />
         <option value="$PROJECT_DIR$/stylesheets/stylesheet.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/javascripts/letskillie6.zh_CN.pack.js" />
+        <option value="$PROJECT_DIR$/cv_cn.html" />
+        <option value="$PROJECT_DIR$/cv_en.html" />
       </list>
     </option>
   </component>
@@ -198,34 +180,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -546,7 +500,11 @@
       <created>1373187921286</created>
       <updated>1373187921286</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="remove commented code">
+      <created>1373187970215</created>
+      <updated>1373187970215</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -635,7 +593,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ie6,7 message in index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove commented code" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -665,31 +623,16 @@
     <MESSAGE value="modify basic-info section for ie6 compatibility issue" />
     <MESSAGE value="ie6 utf-8 issue" />
     <MESSAGE value="add ie6,7 message in index.html" />
+    <MESSAGE value="remove commented code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="54" selection-start="463" selection-end="500" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="69" selection-start="1640" selection-end="1651" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cv_en.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="195" column="24" selection-start="5360" selection-end="5360" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -735,29 +678,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascripts/letskillie6.zh_CN.pack.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cv_en.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="183" column="16" selection-start="4600" selection-end="4600" vertical-scroll-proportion="-3.367347">
-          <folding>
-            <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cv_cn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="184" column="16" selection-start="4665" selection-end="4665" vertical-scroll-proportion="-7.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="97" column="17" selection-start="2298" selection-end="2298" vertical-scroll-proportion="0.0">
@@ -765,9 +685,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/javascripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascripts/letskillie6.pack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="35" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascripts/letskillie6.zh_CN.pack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="33" selection-start="74" selection-end="74" vertical-scroll-proportion="0.067771085">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="45" selection-start="943" selection-end="943" vertical-scroll-proportion="0.14285715">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv_cn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="43" selection-start="555" selection-end="555" vertical-scroll-proportion="-8.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv_en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="41" selection-start="494" selection-end="494" vertical-scroll-proportion="0.2932331">
           <folding />
         </state>
       </provider>
