@@ -84,13 +84,13 @@ h3 {
     font-size: 24px;
 }
 
-h3 .ie6warning {
+ .prompt {
     font-size:12px;
     color:#99CC66;
     margin-left: 5px;
 }
 
-h3 .ie6warning img {
+ .prompt img {
     margin:0px;
     line-height: 20px;
     margin: 0 auto;
