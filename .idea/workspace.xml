@@ -5,20 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="451d01fd-50de-4e1c-9a7a-e179f38389ca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdf/CV_Zemin_Jin_Software_Engineer.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdf/简历_靳泽民_软件工程师.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cv_cn.html" afterPath="$PROJECT_DIR$/cv_cn.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cv_en.html" afterPath="$PROJECT_DIR$/cv_en.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373169016089" ignored="false" />
-    <file path="/cv_cn.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373168950055" ignored="false" />
+    <file path="/Dummy.txt" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373169736779" ignored="false" />
+    <file path="/cv_cn.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373170989520" ignored="false" />
     <file path="/a.py" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373097385370" ignored="false" />
     <file path="/a.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373097727860" ignored="false" />
     <file path="/a.xml" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373098262311" ignored="false" />
-    <file path="/index.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373169669420" ignored="false" />
-    <file path="/cv_en.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373168870087" ignored="false" />
+    <file path="/index.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373169809527" ignored="false" />
+    <file path="/cv_en.html" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373171608999" ignored="false" />
     <file path="/stylesheet.css" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373129990587" ignored="false" />
     <file path="/.gitignore" changelist="451d01fd-50de-4e1c-9a7a-e179f38389ca" time="1373161512814" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -96,10 +96,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="55" selection-start="4564" selection-end="4564" vertical-scroll-proportion="0.36619717">
+            <state line="61" column="91" selection-start="4156" selection-end="4156" vertical-scroll-proportion="-26.875">
               <folding />
             </state>
           </provider>
@@ -108,16 +108,16 @@
       <file leaf-file-name="cv_en.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cv_en.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="279" column="49" selection-start="10125" selection-end="10125" vertical-scroll-proportion="-5.5102043">
+            <state line="323" column="213" selection-start="13810" selection-end="13810" vertical-scroll-proportion="-3.3469388">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cv_cn.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="cv_cn.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cv_cn.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="348" column="41" selection-start="13260" selection-end="13260" vertical-scroll-proportion="-32.42857">
+            <state line="324" column="103" selection-start="12236" selection-end="12236" vertical-scroll-proportion="0.3403909">
               <folding />
             </state>
           </provider>
@@ -143,9 +143,9 @@
       <list>
         <option value="$PROJECT_DIR$/stylesheets/stylesheet.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/cv_en.html" />
-        <option value="$PROJECT_DIR$/cv_cn.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/cv_cn.html" />
+        <option value="$PROJECT_DIR$/cv_en.html" />
       </list>
     </option>
   </component>
@@ -474,7 +474,11 @@
       <created>1373169031200</created>
       <updated>1373169031200</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="upload pdf files">
+      <created>1373169740698</created>
+      <updated>1373169740698</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -486,7 +490,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2876614" sideWeight="0.671875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2876614" sideWeight="0.671875" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -543,7 +547,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="update cv files" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload pdf files" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -565,6 +569,7 @@
     <MESSAGE value="add pdf icon" />
     <MESSAGE value="Merge branch 'master' into gh-pages&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.&#10;" />
     <MESSAGE value="update cv files" />
+    <MESSAGE value="upload pdf files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -614,23 +619,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="91" selection-start="4156" selection-end="4156" vertical-scroll-proportion="-26.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cv_en.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="279" column="49" selection-start="10125" selection-end="10125" vertical-scroll-proportion="-5.5102043">
+        <state line="323" column="213" selection-start="13810" selection-end="13810" vertical-scroll-proportion="-3.3469388">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cv_cn.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="348" column="41" selection-start="13260" selection-end="13260" vertical-scroll-proportion="-32.42857">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="55" selection-start="4564" selection-end="4564" vertical-scroll-proportion="0.36619717">
+        <state line="324" column="103" selection-start="12236" selection-end="12236" vertical-scroll-proportion="0.3403909">
           <folding />
         </state>
       </provider>
