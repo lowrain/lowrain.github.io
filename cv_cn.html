@@ -1,226 +1,269 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta http-equiv="Content-Language" content="zh-CN" />
-    <meta name="description" content="靳泽民, Jin Zemin, Zemin Jin, resume, CV, 简历">
-    <meta name="keywords" content="靳泽民, Jin Zemin, Zemin Jin, resume, CV, 靳泽民，简历">
-    <meta name="robots" content="all">
-    <title>简历</title>
-    <style type="text/css">
-        body {
-            background: #f0f0f0;
-            margin: 0;
-            padding: 0;
-            font-family: Helvetica, Arial, '黑体';
-            line-height: 18px;
-            font-size: 12px;
-            color: #222;
-        }
-        h1, h2, h3, h4 {
-            margin: 0 0 15px 0;
-            padding: 0;
-            font-weight: normal;
-        }
-        h1 {
-            font-size: 500%;
-        }
-        h2 {
-            font-size: 210%;
-        }
-        h3 {
-            font-size: 120%;
-            font-weight: bold;
-        }
-        p {
-            margin: 0 0 6px 0;
-        }
-        code {
-            width: 100%;
-            color: #222;
-            background-color: #fff;
-            font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-            border-radius: 2px;
-            font-size: 11px;
-            -moz-border-radius: 2px;
-            -webkit-border-radius: 2px;
-            padding: 3px;
-            margin: 0 3px;
-            box-shadow: 0 0 10px rgba(0,0,0,.1);
-        }
-            /* ________________________________________________________ */
-        .clear {
-            clear: both;
-        }
-        #main {
-            background: #fff;
-            width: 900px;
-            padding: 35px;
-            margin: 0 auto 15px auto;
-            overflow: hidden;
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Language" content="zh-CN" />
+<meta name="description" content="靳泽民, Jin Zemin, Zemin Jin, resume, CV, 简历">
+<meta name="keywords" content="靳泽民, Jin Zemin, Zemin Jin, resume, CV, 靳泽民，简历">
+<meta name="robots" content="all">
+<title>简历</title>
+<style type="text/css">
+body {
+    background: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, SimHei, “黑体”;
+    line-height: 18px;
+    font-size: 12px;
+    color: #222;
+}
+h1, h2, h3, h4 {
+    margin: 0 0 10px 0;
+    padding: 0;
+    font-weight: normal;
+}
+h1 {
+    font-size: 500%;
+}
+h2 {
+    font-size: 210%;
+}
+h3 {
+    font-size: 120%;
+    font-weight: bold;
+}
+p {
+    margin: 0 0 6px 0;
+}
+code {
+    width: 100%;
+    color: #222;
+    background-color: #fff;
+    font-family: "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+    border-radius: 2px;
+    font-size: 11px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    padding: 3px 5px;
+    margin: 0 3px;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+}
+    /* ________________________________________________________ */
+.clear {
+    clear: both;
+}
+#main {
+    background: #fff;
+    width: 900px;
+    padding: 35px;
+    margin: 0 auto 15px auto;
+    overflow: hidden;
+    box-shadow: 0 0 6px #ccc;
+}
+#title {
+    margin: 0px 0 20px 0;
+    line-height: 70px;
+    text-align: center;
+    color: #111;
+}
+#credit {
+    margin-bottom: 20px;
+    font-size: 11px;
+    color: #999;
+    text-align: center;
+}
+#credit a {
+    color: #999;
+}
+p label {
+    float: left;
+    width: 80px;
+    margin-right: 10px;
+}
+p label span.colon {
+    float: right;
+}
+p span.value {
+    float: left;
+    width: 70%;
+    display: block;
+}
+.section {
+    margin-bottom: 30px;
+    padding-bttom: 20px;
+}
 
-            box-shadow: 0 0 6px #ccc;
-        }
-        #title {
-            margin: 0px 0 20px 0;
-            line-height: 70px;
-            text-align: center;
-            color: #111;
-        }
-        #credit {
-            margin-bottom: 20px;
-            font-size: 11px;
-            color: #999;
-            text-align: center;
-        }
-        #credit a {
-            color: #999;
-        }
-        p label {
-            float: left;
-            width: 80px;
-            margin-right: 10px;
-        }
-        p label span.colon {
-            float: right;
-        }
-        p span.value {
-            float: left;
-            width: 70%;
-            display: block;
-        }
-        .section {
-            margin-bottom: 30px;
-            padding-bttom: 20px;
-        }
+.item {
+    margin: 0 0 15px 0;
+}
+.basic-info {
+    padding: 0px 0 0px 140px;
 
-        .item {
-            margin: 0 0 20px 0;
-        }
-        .basic-info {
-            padding: 0px 0 0px 140px;
-
-        }
-        .basic-info p {
-            float: left;
-            width: 48%;
-            margin: 0 0 0px 0;
-        }
-        .basic-info p.full {
-            width: 100%;
-            float: none;
-        }
-        .basic-info .r {
-            float: right;
-        }
-            /* education _____________________________ */
-        .section .title {
-            border-bottom: 1px solid #ddd;
-            padding-bottom: 5px;
-        }
-        .section span {
-            display: block;
-        }
-        .section h3 span.l, .section span.r {
-            width: 49%;
-            float: left;
-        }
-        .section span.r {
-            float: right;
-            text-align: right;
-        }
-        .section-work .job_title {
-            display: block;
-            margin: 6px 0 6px 0;
-            font-style: italic;
-            color: #666;
-        }
-        .section-education .info {
-            margin: 10px 0 0 0;
-        }
-        .section-timeline h3 {
-            font-size: 120%;
-            margin: 5px 0 5px 0;
-            font-weight: normal;
-        }
-        .section-timeline .item {
-            margin-bottom:6px;
-        }
-        /* ___ photo ___ */
-        #photo {
-            width: 160px;
-            height: 200px;
-            overflow: hidden;
-            float: left;
-            margin-top: 12px;
-            border-radius: 4px;
-        }
-        #photo img {
-            width: 100%;
-            height: auto;
-        }
-        .header.photo {
-            margin-left: 190px;
-        }
-        .header.photo #title {
-            text-align: left;
-        }
-        .header.photo .basic-info {
-            float: none;
-            padding: 0;
-        }
-        @media screen and (max-width: 950px) {
-            body {
-                background: #fff;
-            }
-            #main {
-                box-shadow: none;
-                padding: 0;
-                padding: 5px;
-            }
-        }
-    </style>
+}
+.basic-info p {
+    float: left;
+    width: 48%;
+    margin: 0 0 0px 0;
+}
+.basic-info p.full {
+    width: 100%;
+    float: none;
+}
+.basic-info .r {
+    float: right;
+}
+    /* education _____________________________ */
+.section .title {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+}
+.section span {
+    display: block;
+}
+.section h3 span.l {
+    margin-right: 10px;
+    float: left;
+}
+.section span.r {
+    float: right;
+    text-align: right;
+}
+.section .date {
+    font-weight: normal;
+    font-size: 12px;
+    font-family: "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+}
+.section-work .job_title {
+    display: block;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 10px;
+    color: #666;
+}
+.section .info {
+    margin: 5px 0 0 0;
+}
+.section-timeline h3 {
+    font-size: 120%;
+    margin: 5px 0 5px 0;
+    font-weight: normal;
+}
+.section-timeline .item {
+    margin-bottom:6px;
+}
+    /* ___ photo ___ */
+#photo {
+    width: 160px;
+    height: 200px;
+    overflow: hidden;
+    float: left;
+    margin-top: 12px;
+    border-radius: 4px;
+}
+#photo img {
+    width: 100%;
+    height: auto;
+}
+.header.photo {
+    margin-left: 190px;
+}
+.header.photo #title {
+    text-align: left;
+}
+.header.photo .basic-info {
+    float: none;
+    padding: 0;
+}
+@media screen and (max-width: 800px) {
+    body {
+        background: #fff;
+    }
+    #main {
+        box-shadow: none;
+        padding: 0;
+        padding: 5px;
+    }
+}
+@media print{
+    body {
+        background: #fff;
+        line-height: 18px;
+        font-size: 13px;
+    }
+    #main {
+        width: 750px;
+        padding: 0px 30px;
+        margin: 0;
+        box-shadow: 0 0 0px #fff;
+    }
+    h1, h2, h3, h4 {
+        margin: 0 0 10px 0;
+    }
+    h1 {
+        font-size: 350%;
+    }
+    h2 {
+        font-size: 160%;
+    }
+    h3 {
+        font-size: 100%;
+        font-weight: bold;
+    }
+    code {
+        font-size: 12px;
+    }
+    .section-timeline h3 {
+        font-size: 110%;
+    }
+    .basic-info {
+        padding: 0px 0 0px 80px;
+    }
+    code {
+        font-size: 11px;
+    }
+}
+</style>
 </head>
 <body>
 <!--[if lte IE 7]>
-    <script src="javascripts/letskillie6.zh_CN.pack.js"></script>
+<script src="javascripts/letskillie6.zh_CN.pack.js"></script>
 <![endif]-->
 
 <div id="main">
-    <h1 id="title">靳泽民</h1>
-    <div class="basic-info section">
-        <p class="email"><label>E-mail:</label> <span class="value">jinzm1982@gmail.comm</span></p>
-        <p class="msn"><label>MSN:</label> <span class="value">lowrain@outlook.com</span></p>
-        <p class="phone"><label>手机号码:</label> <span class="value">13401019493</span></p>
-        <p class="skype"><label>Skype:</label> <span class="value">jinzemin</span></p>
-        <p class="gender"><label>性别:</label> <span class="value">男</span>
-        <p class="marital"><label>婚姻状况:</label> <span class="value">已婚</span>
-        <p class="birth"><label>出生年月:</label> <span class="value">1982/3</span>
-        <p class="experience"><label>工作年限:</label> <span class="value">8年</span>
-        <p class="address"><label>家庭住址:</label> <span class="value">北京市 通州区 临河里</span></p>
-        <p class="census"><label>户籍:</label> <span class="value">河北省 张家口市 桥西区</span></p>
-        <div class="clear"> </div>
-    </div>
+<h1 id="title">靳泽民</h1>
+<div class="basic-info section">
+    <p class="email"><label>E-mail:</label> <span class="value">jinzm1982@gmail.comm</span></p>
+    <p class="msn"><label>MSN:</label> <span class="value">lowrain@outlook.com</span></p>
+    <p class="phone"><label>手机号码:</label> <span class="value">13401019493</span></p>
+    <p class="skype"><label>Skype:</label> <span class="value">jinzemin</span></p>
+    <p class="gender"><label>性别:</label> <span class="value">男</span>
+    <p class="marital"><label>婚姻状况:</label> <span class="value">已婚</span>
+    <p class="birth"><label>出生年月:</label> <span class="value">1982/3</span>
+    <p class="experience"><label>工作年限:</label> <span class="value">8年</span>
+    <p class="address"><label>家庭住址:</label> <span class="value">北京市 通州区 临河里</span></p>
+    <p class="census"><label>户籍:</label> <span class="value">河北省 张家口市 桥西区</span></p>
+    <div class="clear"> </div>
+</div>
 
-    <!-- basic-info //-->
-    <div class="section section-profile">
-        <h2 class="title">Profile</h2>
-        <div class="set">
-            <div class="item">
+<!-- basic-info //-->
+<div class="section section-profile">
+    <h2 class="title">Profile</h2>
+    <div class="set">
+        <div class="item">
                 <span class="info">
                     擅长.NET，C#，Sharepoint，Javascript，HTML，CSS，SQL，Web开发，熟悉Python和IOS开发并具有浓厚兴趣。
                     8年软件开发经验，热爱软件开发工作。
                     具有较强的学习能力和分析问题解决问题的能力, 乐于挑战新的技术和领域。
                     工作积极，认真负责，注重质量，善于团队沟通合作。
                 </span>
-            </div>
         </div>
     </div>
+</div>
 
-    <div class="section section-skill">
-        <h2 class="title">Skills & Tools</h2>
-        <div class="set">
-            <div class="item">
+<div class="section section-skill">
+    <h2 class="title">Skills & Tools</h2>
+    <div class="set">
+        <div class="item">
                 <span class="info">
                     Language: C#, VB, SQL, Javascript, CSS, HTML, Python, Objective-C<br />
                     Web Server Framework: ASP.Net, MVC, Sharepoint, Flask<br />
@@ -231,168 +274,170 @@
                     Version Control: TFS, VSS, Github<br />
                     OS: Windows, Mac OS X
                 </span>
-            </div>
         </div>
     </div>
+</div>
 
-    <div class="section section-timeline">
-        <h2 class="title">Work Timeline</h2>
-        <div class="set">
-            <div class="item">
-                <h3>
-                    <span class="company l">盛安德科技发展有限公司/Shinetech Inc.</span>
-                    <span class="date r">2007/7 &mdash; 至今</span>
-                </h3>
-                <span class="clear"> </span>
-            </div>
+<div class="section section-timeline">
+    <h2 class="title">Work Timeline</h2>
+    <div class="set">
+        <div class="item">
+            <h3>
+                <span class="company l">盛安德科技发展有限公司/Shinetech Inc.</span>
+                <span class="date r">2007/7 &mdash; Now</span>
+            </h3>
+            <span class="clear"> </span>
+        </div>
 
-            <div class="item">
-                <h3>
-                    <span class="company l">广告、培训、软件公司</span>
-                    <span class="date r">2005/9 &mdash; 2007/6</span>
-                </h3>
-                <span class="clear"> </span>
-            </div>
+        <div class="item">
+            <h3>
+                <span class="company l">广告、培训、软件公司</span>
+                <span class="date r">2005/9 &mdash; 2007/6</span>
+            </h3>
+            <span class="clear"> </span>
         </div>
     </div>
+</div>
 
-    <div class="section section-work">
-        <h2 class="title">Experience</h2>
-        <div class="set">
-            <div class="item">
-                <h3>
-                    <span class="project l">Octant Business Management Suit</span>
-                    <span class="date r">2007/11 - 2010/8 &amp; 2011/10- 2013/7</span>
-                </h3>
-                <span class="clear"> </span>
-                <span class="job_title">Software Engineer/Shinetech Inc.</span>
+<div class="section section-work">
+    <h2 class="title">Experience</h2>
+    <div class="set">
+        <div class="item">
+            <h3>
+                <span class="project l">Octant Business Management Suit</span>
+                <span class="job_title l">Software Engineer/Shinetech Inc.</span>
+                <span class="date r">2007/11 &mdash; 2010/8 &amp; 2011/10 &mdash; 2013/7</span>
+            </h3>
+            <span class="clear"> </span>
                 <span class="info">
                     <P>Ocant为一家美国公司，该产品旨在帮助大小型企业及商业组织更快地、更智能地响应建议书和合同要求，并提供一系列有价值的工具来将公司商业发展图表化，为管理流程提出建议。项目基于微软的Sharepoint，共有8-10开发及测试人员。我会参与到全部开发流程和整个产品之中，包括需求沟通分析，设计和实施功能模块、界面、Webpart/自定义公共控件、数据存储、持续的迭代和优化，以及错误修复。</p>
                     <code>Sharepoint2007/2010 + C# + Telerik Ajax controls + Javascript/jQuery + SQL Server 2008 + TFS/VSS</code>
                 </span>
-                <span class="clear"> </span>
-            </div>
+            <span class="clear"> </span>
+        </div>
 
-            <div class="item">
-                <h3>
-                    <span class="project l">Janison E-learning Software</span>
-                    <span class="date r">2011/2 &mdash; 2011/7</span>
-                </h3>
-                <span class="clear"> </span>
-                <span class="job_title">Software Engineer/Shinetech Inc.</span>
+        <div class="item">
+            <h3>
+                <span class="project l">Janison E-learning Software</span>
+                <span class="job_title l">Software Engineer/Shinetech Inc.</span>
+                <span class="date r">2011/2 &mdash; 2011/7</span>
+            </h3>
+            <span class="clear"> </span>
                 <span class="info">
-                    <p>Janison是一家澳大利亚公司，专门提供以用户为中心，创新的，优质的电子化培训解决方案。主要参与了该客户的两个子项目，客户对技术和代码质量要求较高。</p>
+                    <p>Janison是一家澳大利亚公司，专门提供创新的、优质的、以用户为中心的电子化培训解决方案。主要参与了该客户的两个子项目，客户对技术和代码质量要求较高。</p>
                     <p>Deloitte Academy System: 带领另一位开发人员，负责系统维护、功能扩展、新版本开发。</p>
                     <code>ASP.NET + VB + SQL Server + Web Service + jQuery + ComponentArt AJAX controls</code><br /><br />
                     <p>Player by Rule &amp; JService: 同Janison本部技术人员合作，对Janison的核心类库“JService”进行更新升级。数据访问层采用了EntityFramwork + Autfac。同时，为另一个名为"Play by Rule"的系统创建WCF模块，该系统是MVC 3.0框架并基于JService所开发。工作涉及到大量业务逻辑和技术分析，需要同Janison团队进行频繁沟通，以开发出更加强大的产品。</p>
-                    <code>ASP.NET + C# + SQL Server + WCF + EntityFramework + UnitTest + Ioc by Autofac + jQuery + Telerik + DDD + UnitTest</code>
+                    <code>ASP.NET + C# + SQL Server + WCF + EntityFramework + UnitTest + Ioc by Autofac + jQuery + Telerik</code>
                 </span>
-                <span class="clear"> </span>
-            </div>
+            <span class="clear"> </span>
+        </div>
 
-            <div class="item">
-                <h3><span class="project l">思创银联FNNB金融本二期，SERV项目组/Finance Pad CRM System</span>
-                    <span class="date r">2010/9 &mdash; 2011/1</span>
-                </h3>
-                <span class="clear"> </span>
-                <span class="job_title">Team Leader, Software Engineer/Shinetech Inc.</span>
+        <div class="item">
+            <h3>
+                <span class="project l">思创银联FNNB金融本二期，SERV项目组</span>
+                <span class="job_title l">Team Leader, Software Engineer/Shinetech Inc.</span>
+                <span class="date r">2010/9 &mdash; 2011/1</span>
+            </h3>
+            <span class="clear"> </span>
                 <span class="info">
                     <p>带领四人团队同思创银联公司团队合作开发一个用于管理银行数据和客户及设备（搭载Window CE7的平板电脑）的Web系统。基于ASP.NET MVC 2.0框架，UI采用EXT JS + AJAX，持久化层和domain model层结合了Nhibernate + Sql Server + WCF，同时系统加入了必要的单元测试已保证质量。</p>
                     <code>C# + MVC + SQL Server + WCF + NHibernate + AJAX + EXT JS + Ioc by .Net Unity</code>
                 </span>
-                <span class="clear"> </span>
-            </div>
+            <span class="clear"> </span>
+        </div>
 
-            <div class="item">
-                <h3>
-                    <span class="project l">Health Technology Research</span>
-                    <span class="date r">2010/4 &mdash; 2010/7</span>
-                </h3>
-                <span class="clear"> </span>
-                <span class="job_title">Software Engineer/Shinetech Inc.</span>
+        <div class="item">
+            <h3>
+                <span class="project l">Health Technology Research</span>
+                <span class="job_title l">Software Engineer/Shinetech Inc.</span>
+                <span class="date r">2010/4 &mdash; 2010/7</span>
+            </h3>
+            <span class="clear"> </span>
                 <span class="info">
                     <p>该项目包括四个主要部分：WCF信息传输系统，ASP.NET web站点，Sharepoint站点以及MS CRM服务器。Web站点整合Sharepoint并且将CRM系统作为数据中心。信息传输系统为一个SOA系统，用于encrypt/decrypt，sign/verify以及在多设备间传输数据。该系统为用户展示服务和产品，提供了数据检索和客户关系维护的功能。</P>
                     <p>负责搭建HTR web站点以及Sharepoint站点；将Sharepoint用户管理系统和CRM数据整合到HTR站点；根据客户需求，与另一名开发人员共同研究并部署WCF数据传输系统。</P>
                     <code>ASP.NET + Sharepoint + CRM + SQL Server + WCF</code>
                 </span>
-                <span class="clear"> </span>
-            </div>
+            <span class="clear"> </span>
+        </div>
 
-            <div class="item">
-                <h3>
-                    <span class="project l">ECatalog Products Management Suit</span>
-                    <span class="date r">2007/8 &mdash; 2007/11</span>
-                </h3>
-                <span class="clear"> </span>
-                <span class="job_title">Software Engineer/Shinetech Inc.</span>
+        <div class="item">
+            <h3>
+                <span class="project l">ECatalog Products Management Suit</span>
+                <span class="job_title l">Software Engineer/Shinetech Inc.</span>
+                <span class="date r">2007/8 &mdash; 2007/11</span>
+            </h3>
+            <span class="clear"> </span>
                 <span class="info">
                     <p>产品管理系统，用户通过这个系统高效地查找浏览所有类别下的产品。涉及到很多复杂业务逻辑和数据操作。负责系统架构设计，页面设计，ASP.NET和数据库开发。</p>
                     <code>ASP.NET + SQL Server + Javascript + HTML + CSS</code>
                 </span>
-                <span class="clear"> </span>
-            </div>
+            <span class="clear"> </span>
+        </div>
 
-            <div class="item">
-                <h3><span class="project l">EarthTone</span>
-                    <span class="date r">2007/7 &mdash; 2007/8</span>
-                </h3>
-                <span class="clear"> </span>
-                <span class="job_title">Software Engineer/Shinetech Inc.</span>
+        <div class="item">
+            <h3>
+                <span class="project l">EarthTone</span>
+                <span class="job_title l">Software Engineer/Shinetech Inc.</span>
+                <span class="date r">2007/7 &mdash; 2007/8</span>
+            </h3>
+            <span class="clear"> </span>
                 <span class="info">
                     <p>在项目中负责运用DIV布局+CSS方式创建web模板页。确保所有静态页面严格符合web 2.0标准并且易于集成到ASP.NET系统。</P>
                     <code>Dreamweaver + Fireworks + ASP.NET + HTML + CSS</code>
                 </span>
-                <span class="clear"> </span>
-            </div>
+            <span class="clear"> </span>
+        </div>
 
-            <div class="item">
-                <h3>
-                    <span class="company l">网站开发，系统维护</span>
-                    <span class="date r">2005/9 &mdash; 2007/6</span>
-                </h3>
-                <span class="clear"> </span>
-                <span class="job_title">Software Engineer</span>
+        <div class="item">
+            <h3>
+                <span class="company l">网站开发，系统维护</span>
+                <span class="job_title l">Software Engineer</span>
+                <span class="date r">2005/9 &mdash; 2007/6</span>
+            </h3>
+            <span class="clear"> </span>
                 <span class="info">
                     <p>毕业后陆续在几家公司负责网站开发或公司内部系统开发维护工作。</p>
                     <code>ASP.NET + ASP + PHP + SQL Server + My SQL + Javascript + HTML + CSS</code>
                 </span>
-                <span class="clear"> </span>
-            </div>
+            <span class="clear"> </span>
         </div>
     </div>
+</div>
 
-    <div class="section section-education">
-        <h2 class="title">Education</h2>
-        <div class="set">
-            <div class="item">
-                <h3>
-                    <span class="school l">河北联合大学 (原河北理工大学)</span>
-                    <span class="date r">2001/9 &mdash; 2005/6</span>
-                </h3>
-                <span class="clear"> </span>
-                <span class="info">获得环境工程专业学士学位</span>
-                <span class="clear"> </span>
-            </div>
+<div class="section section-education">
+    <h2 class="title">Education</h2>
+    <div class="set">
+        <div class="item">
+            <h3>
+                <span class="school l">河北联合大学 (原河北理工大学)</span>
+                <span class="date r">2001/9 &mdash; 2005/6</span>
+            </h3>
+            <span class="clear"> </span>
+            <span class="info">获得环境工程专业学士学位</span>
+            <span class="clear"> </span>
         </div>
     </div>
+</div>
 
-    <div class="section section-english">
-        <h2 class="title">English</h2>
-        <div class="set">
-            <div class="item">
-                <span class="info">CET4<br />有较强的英文读写能力，能够直接口语交流。</span>
-            </div>
+<div class="section section-english">
+    <h2 class="title">English</h2>
+    <div class="set">
+        <div class="item">
+            <span class="info">CET4<br />有较强的英文读写能力，能够直接口语交流。</span>
         </div>
     </div>
+</div>
 
-    <div class="section section-interests">
-        <h2 class="title">Interests</h2>
-        <div class="set">
-            <div class="item">
-                <span class="info">音乐，摄影，骑行，编程，电影，动漫，学习新技术</span>
-            </div>
+<div class="section section-interests">
+    <h2 class="title">Interests</h2>
+    <div class="set">
+        <div class="item">
+            <span class="info">音乐，摄影，骑行，编程，电影，动漫，学习新技术</span>
         </div>
     </div>
+</div>
 
 </div>
 </body>
