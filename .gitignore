@@ -1,5 +1,11 @@
 .DS_Store
 .idea/
 /.DS_Store
+<<<<<<< HEAD
 /.idea/workspace.xml
 workspace.xml
+=======
+/.idea/workspace.xml
+>>>>>>> origin/gh-pages
+
+/.gitignore
