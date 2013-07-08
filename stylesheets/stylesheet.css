@@ -26,7 +26,6 @@ time, mark, audio, video {
     padding: 0;
     border: 0;
     font: inherit;
-    vertical-align: baseline;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -163,7 +162,6 @@ img {
     padding: 5px;
     margin: 10px 0 10px 0;
     border: 1px solid #ebebeb;
-
     box-shadow: 0 0 5px #ebebeb;
     -webkit-box-shadow: 0 0 5px #ebebeb;
     -moz-box-shadow: 0 0 5px #ebebeb;
@@ -293,7 +291,10 @@ img.icon {
     margin: 0;
     border: 0;
 }
-
+table.resume td {
+    line-height: 20px;
+    height: 30px;
+}
 table.resume img {
     margin:0px;
     line-height: 20px;
