@@ -320,6 +320,16 @@ table.resume img {
     vertical-align: middle;
 }
 
+img.linkedin  {
+    margin:0px;
+    margin: 0 auto;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    width: 80px;
+    height: 15px;
+}
+
 #project_title {
     vertical-align: middle;
     line-height: 100px;
