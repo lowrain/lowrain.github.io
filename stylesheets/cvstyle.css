@@ -141,6 +141,9 @@ p span.value {
 .section-timeline .item {
     margin-bottom:6px;
 }
+.section-timeline .set {
+    text-align: center;
+}
 /* ___ photo ___ */
 #photo {
     width: 160px;
